@@ -138,12 +138,8 @@ curl http://localhost:8080
 To avoid ongoing charges:
 
 ```bash
-cd infra/envs/dev
+cd infra/envs/env_name
 terraform destroy
 ```
 
 ---
-
-## 📝 License
-
-MIT License
